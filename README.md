@@ -24,7 +24,7 @@ Background in fault-tolerant architecture from CineGrid 3D 4K and networked tele
 
 ## How I think about this work
 
-Software is a collaborative environment — a place where human intuition and algorithmic logic have to genuinely coexist, not just be adjacent. My parallel work as an [artist](https://toddmargolis.net/creative/) is the same impulse applied differently: materializing the invisible so people can reason about it.
+Software is a collaborative environment — my [research](https://toddmargolis.net/research/) provides the affordance for human intuition and algorithmic logic to coexist, not just be adjacent. My parallel work as an [artist](https://toddmargolis.net/creative/) is the same impulse applied differently: materializing the invisible so people can reason about the complex and discover the emergent.
 
 I bridge computer science and new media art. In practice that means I can argue about infrastructure tradeoffs in the morning and explain why they matter to a non-technical stakeholder in the afternoon — without dumbing either conversation down.
 
