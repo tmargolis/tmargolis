@@ -9,7 +9,7 @@ Most recently Sr. Director of Applied Research & Emerging Technologies at **Qlik
 ## What I work on
 
 **Agentic workflows**
-Currently deep in operationalizing multi-agent systems within enterprise environments — designing the coordination layer, not just the models.
+Currently deep in operationalizing multi-agent systems within enterprise environments — designing the orchestration layer, not just the models.
 
 **AI Governance & interpretability**
 Multi-agent systems need to be as legible as they are capable. I design governance frameworks that treat interpretability as an architectural constraint from day one, not a compliance checkbox.
